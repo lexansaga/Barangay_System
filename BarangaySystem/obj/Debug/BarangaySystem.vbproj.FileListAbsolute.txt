@@ -48,3 +48,25 @@ E:\Lexan\Lexan Projects\BarangaySystem\BarangaySystem\bin\Debug\BarangaySystem.e
 E:\Lexan\Lexan Projects\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.exe
 E:\Lexan\Lexan Projects\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.xml
 E:\Lexan\Lexan Projects\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.pdb
+D:\Lexan\Barangay_System\BarangaySystem\bin\Debug\BarangaySystem.exe.config
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.exe
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.xml
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.pdb
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.vbprojResolveAssemblyReference.cache
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.UC_HealthOffice.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.CreateAccount.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.WACDO.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.UC_Health.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.Login.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.UC_LT.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.Main_Brgy.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.MissionVision.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.Resources.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.UC_Senior.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.UC_Sk.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.UC_Treasury.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.UC_VAWC.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.vbproj.GenerateResource.Cache
+D:\Lexan\Barangay_System\BarangaySystem\bin\Debug\BarangaySystem.exe
+D:\Lexan\Barangay_System\BarangaySystem\bin\Debug\BarangaySystem.pdb
+D:\Lexan\Barangay_System\BarangaySystem\bin\Debug\BarangaySystem.xml
