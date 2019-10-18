@@ -1,0 +1,50 @@
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\bin\Debug\BarangaySystem.exe.config
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\bin\Debug\BarangaySystem.exe
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\bin\Debug\BarangaySystem.pdb
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\bin\Debug\BarangaySystem.xml
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_HealthOffice.resources
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.CreateAccount.resources
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_Health.resources
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.Login.resources
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.Main_Brgy.resources
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.Resources.resources
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_Sk.resources
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_VAWC.resources
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.vbproj.GenerateResource.cache
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.vbproj.CoreCompileInputs.cache
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.vbproj.CopyComplete
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.exe
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.xml
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.pdb
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_LT.resources
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_Senior.resources
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_Treasury.resources
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.vbprojAssemblyReference.cache
+D:\Users\Mitch\Desktop\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.MissionVision.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\bin\Debug\BarangaySystem.exe.config
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.exe
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.xml
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.pdb
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\bin\Debug\BarangaySystem.exe
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\bin\Debug\BarangaySystem.pdb
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\bin\Debug\BarangaySystem.xml
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_HealthOffice.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.CreateAccount.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_Health.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.Login.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_LT.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.Main_Brgy.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.MissionVision.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.Resources.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_Senior.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_Sk.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_Treasury.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.UC_VAWC.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.vbproj.GenerateResource.Cache
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.WACDO.resources
+C:\Users\Lexan\Downloads\Saga\Saga\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.vbprojResolveAssemblyReference.cache
+E:\Lexan\Lexan Projects\BarangaySystem\BarangaySystem\bin\Debug\BarangaySystem.exe.config
+E:\Lexan\Lexan Projects\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.exe
+E:\Lexan\Lexan Projects\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.xml
+E:\Lexan\Lexan Projects\BarangaySystem\BarangaySystem\obj\Debug\BarangaySystem.pdb
