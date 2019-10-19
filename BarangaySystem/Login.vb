@@ -9,7 +9,7 @@
 
     Private Sub btnLogin_Click(sender As Object, e As EventArgs) Handles btnLogin.Click
         Me.Hide()
-        Dim main As New Main_Brgy
+        Dim main As New Forms_Manager
         main.Show()
 
 

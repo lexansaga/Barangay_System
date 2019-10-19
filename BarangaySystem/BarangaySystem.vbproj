@@ -52,6 +52,13 @@
     <Reference Include="Bunifu_UI_v1.52">
       <HintPath>..\..\..\Bunifu UI\Bunifu_UI_v1.52.dll</HintPath>
     </Reference>
+    <Reference Include="DatabaseHelper">
+      <HintPath>C:\Users\Alexander Saga\Downloads\DatabaseHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MaterialSkin.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
@@ -90,6 +97,13 @@
     <Compile Include="CreateAccount.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Dashboard\Dashboard.Designer.vb">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\Dashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Database\Model.vb" />
     <Compile Include="Forms\WACDO.Designer.vb">
       <DependentUpon>WACDO.vb</DependentUpon>
     </Compile>
@@ -115,10 +129,16 @@
     <Compile Include="LuponTagapamayapa\UC_LT.vb">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Main_Brgy.Designer.vb">
-      <DependentUpon>Main_Brgy.vb</DependentUpon>
+    <Compile Include="Forms_Manager.Designer.vb">
+      <DependentUpon>Forms_Manager.vb</DependentUpon>
     </Compile>
-    <Compile Include="Main_Brgy.vb">
+    <Compile Include="Forms_Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MissionVision.Designer.vb">
@@ -141,6 +161,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Resident\Add_Resident.Designer.vb">
+      <DependentUpon>Add_Resident.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resident\Add_Resident.vb">
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="Senior\UC_Senior.Designer.vb">
       <DependentUpon>UC_Senior.vb</DependentUpon>
@@ -174,6 +200,9 @@
     <EmbeddedResource Include="CreateAccount.resx">
       <DependentUpon>CreateAccount.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\Dashboard.resx">
+      <DependentUpon>Dashboard.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\WACDO.resx">
       <DependentUpon>WACDO.vb</DependentUpon>
     </EmbeddedResource>
@@ -186,8 +215,11 @@
     <EmbeddedResource Include="LuponTagapamayapa\UC_LT.resx">
       <DependentUpon>UC_LT.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Main_Brgy.resx">
-      <DependentUpon>Main_Brgy.vb</DependentUpon>
+    <EmbeddedResource Include="Forms_Manager.resx">
+      <DependentUpon>Forms_Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MissionVision.resx">
       <DependentUpon>MissionVision.vb</DependentUpon>
@@ -197,6 +229,9 @@
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resident\Add_Resident.resx">
+      <DependentUpon>Add_Resident.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Senior\UC_Senior.resx">
       <DependentUpon>UC_Senior.vb</DependentUpon>
@@ -228,6 +263,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-ios-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-24.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

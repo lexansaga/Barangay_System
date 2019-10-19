@@ -28,26 +28,26 @@ Partial Class WACDO
         Me.BunifuFlatButton2 = New Bunifu.Framework.UI.BunifuFlatButton()
         Me.BunifuFlatButton1 = New Bunifu.Framework.UI.BunifuFlatButton()
         Me.Panel1 = New Bunifu.Framework.UI.BunifuGradientPanel()
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.Label2 = New System.Windows.Forms.Label()
-        Me.Label3 = New System.Windows.Forms.Label()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.Label5 = New System.Windows.Forms.Label()
-        Me.Label6 = New System.Windows.Forms.Label()
-        Me.Label7 = New System.Windows.Forms.Label()
-        Me.Label8 = New System.Windows.Forms.Label()
-        Me.Label9 = New System.Windows.Forms.Label()
-        Me.Label10 = New System.Windows.Forms.Label()
-        Me.Label11 = New System.Windows.Forms.Label()
-        Me.Label12 = New System.Windows.Forms.Label()
+        Me.Label20 = New System.Windows.Forms.Label()
+        Me.Label19 = New System.Windows.Forms.Label()
+        Me.Label17 = New System.Windows.Forms.Label()
+        Me.Label18 = New System.Windows.Forms.Label()
+        Me.Label16 = New System.Windows.Forms.Label()
         Me.Label13 = New System.Windows.Forms.Label()
         Me.Label14 = New System.Windows.Forms.Label()
         Me.Label15 = New System.Windows.Forms.Label()
-        Me.Label16 = New System.Windows.Forms.Label()
-        Me.Label17 = New System.Windows.Forms.Label()
-        Me.Label18 = New System.Windows.Forms.Label()
-        Me.Label19 = New System.Windows.Forms.Label()
-        Me.Label20 = New System.Windows.Forms.Label()
+        Me.Label12 = New System.Windows.Forms.Label()
+        Me.Label11 = New System.Windows.Forms.Label()
+        Me.Label10 = New System.Windows.Forms.Label()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.PrintDocument1 = New System.Drawing.Printing.PrintDocument()
         Me.Panel2 = New System.Windows.Forms.Panel()
         Me.BunifuDragControl1 = New Bunifu.Framework.UI.BunifuDragControl(Me.components)
@@ -88,7 +88,7 @@ Partial Class WACDO
         Me.btn_Barangay.IconZoom = 90.0R
         Me.btn_Barangay.IsTab = False
         Me.btn_Barangay.Location = New System.Drawing.Point(230, 54)
-        Me.btn_Barangay.Margin = New System.Windows.Forms.Padding(5, 5, 5, 5)
+        Me.btn_Barangay.Margin = New System.Windows.Forms.Padding(5)
         Me.btn_Barangay.Name = "btn_Barangay"
         Me.btn_Barangay.Normalcolor = System.Drawing.Color.RoyalBlue
         Me.btn_Barangay.OnHovercolor = System.Drawing.Color.RoyalBlue
@@ -123,7 +123,7 @@ Partial Class WACDO
         Me.BunifuFlatButton2.IconZoom = 90.0R
         Me.BunifuFlatButton2.IsTab = False
         Me.BunifuFlatButton2.Location = New System.Drawing.Point(338, 55)
-        Me.BunifuFlatButton2.Margin = New System.Windows.Forms.Padding(5, 5, 5, 5)
+        Me.BunifuFlatButton2.Margin = New System.Windows.Forms.Padding(5)
         Me.BunifuFlatButton2.Name = "BunifuFlatButton2"
         Me.BunifuFlatButton2.Normalcolor = System.Drawing.Color.RoyalBlue
         Me.BunifuFlatButton2.OnHovercolor = System.Drawing.Color.RoyalBlue
@@ -158,7 +158,7 @@ Partial Class WACDO
         Me.BunifuFlatButton1.IconZoom = 90.0R
         Me.BunifuFlatButton1.IsTab = False
         Me.BunifuFlatButton1.Location = New System.Drawing.Point(27, 54)
-        Me.BunifuFlatButton1.Margin = New System.Windows.Forms.Padding(5, 5, 5, 5)
+        Me.BunifuFlatButton1.Margin = New System.Windows.Forms.Padding(5)
         Me.BunifuFlatButton1.Name = "BunifuFlatButton1"
         Me.BunifuFlatButton1.Normalcolor = System.Drawing.Color.RoyalBlue
         Me.BunifuFlatButton1.OnHovercolor = System.Drawing.Color.RoyalBlue
@@ -205,121 +205,54 @@ Partial Class WACDO
         Me.Panel1.Size = New System.Drawing.Size(612, 792)
         Me.Panel1.TabIndex = 0
         '
-        'Label1
+        'Label20
         '
-        Me.Label1.Font = New System.Drawing.Font("Times New Roman", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(0, 10)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(609, 23)
-        Me.Label1.TabIndex = 0
-        Me.Label1.Text = "WOMEN'S AND CHILDREN DESK OFFICE"
-        Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        Me.Label20.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label20.Location = New System.Drawing.Point(33, 728)
+        Me.Label20.Name = "Label20"
+        Me.Label20.Size = New System.Drawing.Size(544, 21)
+        Me.Label20.TabIndex = 19
+        Me.Label20.Text = "Women's and Children's Desk Officer"
+        Me.Label20.TextAlign = System.Drawing.ContentAlignment.BottomRight
         '
-        'Label2
+        'Label19
         '
-        Me.Label2.Font = New System.Drawing.Font("Times New Roman", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(2, 51)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(571, 21)
-        Me.Label2.TabIndex = 1
-        Me.Label2.Text = "____________________"
-        Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.Label19.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label19.Location = New System.Drawing.Point(33, 707)
+        Me.Label19.Name = "Label19"
+        Me.Label19.Size = New System.Drawing.Size(542, 21)
+        Me.Label19.TabIndex = 18
+        Me.Label19.Text = "___________________________________"
+        Me.Label19.TextAlign = System.Drawing.ContentAlignment.BottomRight
         '
-        'Label3
+        'Label17
         '
-        Me.Label3.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(3, 72)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(571, 21)
-        Me.Label3.TabIndex = 2
-        Me.Label3.Text = "Date"
-        Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.Label17.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label17.Location = New System.Drawing.Point(33, 663)
+        Me.Label17.Name = "Label17"
+        Me.Label17.Size = New System.Drawing.Size(542, 21)
+        Me.Label17.TabIndex = 17
+        Me.Label17.Text = "Date: ______________"
+        Me.Label17.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'Label4
+        'Label18
         '
-        Me.Label4.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(31, 93)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(542, 21)
-        Me.Label4.TabIndex = 3
-        Me.Label4.Text = "____________________"
-        Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Label18.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label18.Location = New System.Drawing.Point(33, 642)
+        Me.Label18.Name = "Label18"
+        Me.Label18.Size = New System.Drawing.Size(542, 21)
+        Me.Label18.TabIndex = 16
+        Me.Label18.Text = "Name : _____________"
+        Me.Label18.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'Label5
+        'Label16
         '
-        Me.Label5.Font = New System.Drawing.Font("Times New Roman", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(30, 177)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(543, 21)
-        Me.Label5.TabIndex = 4
-        Me.Label5.Text = "E N D O R S E M E N T"
-        Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
-        '
-        'Label6
-        '
-        Me.Label6.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(29, 215)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(544, 133)
-        Me.Label6.TabIndex = 5
-        Me.Label6.Text = resources.GetString("Label6.Text")
-        '
-        'Label7
-        '
-        Me.Label7.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(31, 348)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(544, 21)
-        Me.Label7.TabIndex = 6
-        Me.Label7.Text = "Remarks:" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
-        '
-        'Label8
-        '
-        Me.Label8.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(31, 369)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(544, 98)
-        Me.Label8.TabIndex = 7
-        Me.Label8.Text = resources.GetString("Label8.Text")
-        '
-        'Label9
-        '
-        Me.Label9.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label9.Location = New System.Drawing.Point(31, 480)
-        Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(544, 48)
-        Me.Label9.TabIndex = 8
-        Me.Label9.Text = "Your kind attention and assistance in this matter shall be highly appreciated by " &
-    "yours truly.Thank you very much" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
-        '
-        'Label10
-        '
-        Me.Label10.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label10.Location = New System.Drawing.Point(31, 528)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(544, 21)
-        Me.Label10.TabIndex = 9
-        Me.Label10.Text = "Attached Documents:"
-        '
-        'Label11
-        '
-        Me.Label11.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label11.Location = New System.Drawing.Point(31, 114)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(542, 21)
-        Me.Label11.TabIndex = 10
-        Me.Label11.Text = "____________________"
-        Me.Label11.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
-        'Label12
-        '
-        Me.Label12.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label12.Location = New System.Drawing.Point(31, 135)
-        Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(542, 21)
-        Me.Label12.TabIndex = 11
-        Me.Label12.Text = "____________________"
-        Me.Label12.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Label16.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label16.Location = New System.Drawing.Point(31, 621)
+        Me.Label16.Name = "Label16"
+        Me.Label16.Size = New System.Drawing.Size(544, 21)
+        Me.Label16.TabIndex = 15
+        Me.Label16.Text = "Received By:"
         '
         'Label13
         '
@@ -351,54 +284,121 @@ Partial Class WACDO
         Me.Label15.Text = "____________________"
         Me.Label15.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'Label16
+        'Label12
         '
-        Me.Label16.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label16.Location = New System.Drawing.Point(31, 621)
-        Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(544, 21)
-        Me.Label16.TabIndex = 15
-        Me.Label16.Text = "Received By:"
+        Me.Label12.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label12.Location = New System.Drawing.Point(31, 135)
+        Me.Label12.Name = "Label12"
+        Me.Label12.Size = New System.Drawing.Size(542, 21)
+        Me.Label12.TabIndex = 11
+        Me.Label12.Text = "____________________"
+        Me.Label12.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'Label17
+        'Label11
         '
-        Me.Label17.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label17.Location = New System.Drawing.Point(33, 663)
-        Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(542, 21)
-        Me.Label17.TabIndex = 17
-        Me.Label17.Text = "Date: ______________"
-        Me.Label17.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Label11.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label11.Location = New System.Drawing.Point(31, 114)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(542, 21)
+        Me.Label11.TabIndex = 10
+        Me.Label11.Text = "____________________"
+        Me.Label11.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
-        'Label18
+        'Label10
         '
-        Me.Label18.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label18.Location = New System.Drawing.Point(33, 642)
-        Me.Label18.Name = "Label18"
-        Me.Label18.Size = New System.Drawing.Size(542, 21)
-        Me.Label18.TabIndex = 16
-        Me.Label18.Text = "Name : _____________"
-        Me.Label18.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.Label10.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label10.Location = New System.Drawing.Point(31, 528)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(544, 21)
+        Me.Label10.TabIndex = 9
+        Me.Label10.Text = "Attached Documents:"
         '
-        'Label19
+        'Label9
         '
-        Me.Label19.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label19.Location = New System.Drawing.Point(33, 707)
-        Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(542, 21)
-        Me.Label19.TabIndex = 18
-        Me.Label19.Text = "___________________________________"
-        Me.Label19.TextAlign = System.Drawing.ContentAlignment.BottomRight
+        Me.Label9.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label9.Location = New System.Drawing.Point(31, 480)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(544, 48)
+        Me.Label9.TabIndex = 8
+        Me.Label9.Text = "Your kind attention and assistance in this matter shall be highly appreciated by " &
+    "yours truly.Thank you very much" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
         '
-        'Label20
+        'Label8
         '
-        Me.Label20.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label20.Location = New System.Drawing.Point(33, 728)
-        Me.Label20.Name = "Label20"
-        Me.Label20.Size = New System.Drawing.Size(544, 21)
-        Me.Label20.TabIndex = 19
-        Me.Label20.Text = "Women's and Children's Desk Officer"
-        Me.Label20.TextAlign = System.Drawing.ContentAlignment.BottomRight
+        Me.Label8.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label8.Location = New System.Drawing.Point(31, 369)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(544, 98)
+        Me.Label8.TabIndex = 7
+        Me.Label8.Text = resources.GetString("Label8.Text")
+        '
+        'Label7
+        '
+        Me.Label7.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label7.Location = New System.Drawing.Point(31, 348)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(544, 21)
+        Me.Label7.TabIndex = 6
+        Me.Label7.Text = "Remarks:" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10)
+        '
+        'Label6
+        '
+        Me.Label6.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label6.Location = New System.Drawing.Point(29, 215)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(544, 133)
+        Me.Label6.TabIndex = 5
+        Me.Label6.Text = resources.GetString("Label6.Text")
+        '
+        'Label5
+        '
+        Me.Label5.Font = New System.Drawing.Font("Times New Roman", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label5.Location = New System.Drawing.Point(30, 177)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(543, 21)
+        Me.Label5.TabIndex = 4
+        Me.Label5.Text = "E N D O R S E M E N T"
+        Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'Label4
+        '
+        Me.Label4.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.Location = New System.Drawing.Point(31, 93)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(542, 21)
+        Me.Label4.TabIndex = 3
+        Me.Label4.Text = "____________________"
+        Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
+        'Label3
+        '
+        Me.Label3.Font = New System.Drawing.Font("Times New Roman", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.Location = New System.Drawing.Point(3, 72)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(571, 21)
+        Me.Label3.TabIndex = 2
+        Me.Label3.Text = "Date"
+        Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        '
+        'Label2
+        '
+        Me.Label2.Font = New System.Drawing.Font("Times New Roman", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label2.Location = New System.Drawing.Point(2, 51)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(571, 21)
+        Me.Label2.TabIndex = 1
+        Me.Label2.Text = "____________________"
+        Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        '
+        'Label1
+        '
+        Me.Label1.Font = New System.Drawing.Font("Times New Roman", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(0, 10)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(609, 23)
+        Me.Label1.TabIndex = 0
+        Me.Label1.Text = "WOMEN'S AND CHILDREN DESK OFFICE"
+        Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'PrintDocument1
         '
@@ -408,7 +408,7 @@ Partial Class WACDO
         Me.Panel2.BackColor = System.Drawing.Color.RoyalBlue
         Me.Panel2.Dock = System.Windows.Forms.DockStyle.Top
         Me.Panel2.Location = New System.Drawing.Point(0, 0)
-        Me.Panel2.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.Panel2.Margin = New System.Windows.Forms.Padding(2)
         Me.Panel2.Name = "Panel2"
         Me.Panel2.Size = New System.Drawing.Size(1090, 28)
         Me.Panel2.TabIndex = 14
@@ -433,6 +433,7 @@ Partial Class WACDO
         Me.txtUsername.LineMouseHoverColor = System.Drawing.Color.RoyalBlue
         Me.txtUsername.LineThickness = 2
         Me.txtUsername.Location = New System.Drawing.Point(27, 95)
+        Me.txtUsername.Margin = New System.Windows.Forms.Padding(4)
         Me.txtUsername.Name = "txtUsername"
         Me.txtUsername.Size = New System.Drawing.Size(411, 36)
         Me.txtUsername.TabIndex = 15
@@ -451,6 +452,7 @@ Partial Class WACDO
         Me.BunifuMaterialTextbox1.LineMouseHoverColor = System.Drawing.Color.RoyalBlue
         Me.BunifuMaterialTextbox1.LineThickness = 2
         Me.BunifuMaterialTextbox1.Location = New System.Drawing.Point(27, 137)
+        Me.BunifuMaterialTextbox1.Margin = New System.Windows.Forms.Padding(4)
         Me.BunifuMaterialTextbox1.Name = "BunifuMaterialTextbox1"
         Me.BunifuMaterialTextbox1.Size = New System.Drawing.Size(411, 36)
         Me.BunifuMaterialTextbox1.TabIndex = 16
@@ -469,6 +471,7 @@ Partial Class WACDO
         Me.BunifuMaterialTextbox2.LineMouseHoverColor = System.Drawing.Color.RoyalBlue
         Me.BunifuMaterialTextbox2.LineThickness = 2
         Me.BunifuMaterialTextbox2.Location = New System.Drawing.Point(27, 179)
+        Me.BunifuMaterialTextbox2.Margin = New System.Windows.Forms.Padding(4)
         Me.BunifuMaterialTextbox2.Name = "BunifuMaterialTextbox2"
         Me.BunifuMaterialTextbox2.Size = New System.Drawing.Size(411, 36)
         Me.BunifuMaterialTextbox2.TabIndex = 17
@@ -487,6 +490,7 @@ Partial Class WACDO
         Me.BunifuMaterialTextbox3.LineMouseHoverColor = System.Drawing.Color.RoyalBlue
         Me.BunifuMaterialTextbox3.LineThickness = 2
         Me.BunifuMaterialTextbox3.Location = New System.Drawing.Point(27, 221)
+        Me.BunifuMaterialTextbox3.Margin = New System.Windows.Forms.Padding(4)
         Me.BunifuMaterialTextbox3.Name = "BunifuMaterialTextbox3"
         Me.BunifuMaterialTextbox3.Size = New System.Drawing.Size(411, 36)
         Me.BunifuMaterialTextbox3.TabIndex = 18
@@ -505,6 +509,7 @@ Partial Class WACDO
         Me.BunifuMaterialTextbox4.LineMouseHoverColor = System.Drawing.Color.RoyalBlue
         Me.BunifuMaterialTextbox4.LineThickness = 2
         Me.BunifuMaterialTextbox4.Location = New System.Drawing.Point(27, 263)
+        Me.BunifuMaterialTextbox4.Margin = New System.Windows.Forms.Padding(4)
         Me.BunifuMaterialTextbox4.Name = "BunifuMaterialTextbox4"
         Me.BunifuMaterialTextbox4.Size = New System.Drawing.Size(411, 36)
         Me.BunifuMaterialTextbox4.TabIndex = 19
@@ -523,6 +528,7 @@ Partial Class WACDO
         Me.BunifuMaterialTextbox5.LineMouseHoverColor = System.Drawing.Color.RoyalBlue
         Me.BunifuMaterialTextbox5.LineThickness = 2
         Me.BunifuMaterialTextbox5.Location = New System.Drawing.Point(27, 305)
+        Me.BunifuMaterialTextbox5.Margin = New System.Windows.Forms.Padding(4)
         Me.BunifuMaterialTextbox5.Name = "BunifuMaterialTextbox5"
         Me.BunifuMaterialTextbox5.Size = New System.Drawing.Size(411, 36)
         Me.BunifuMaterialTextbox5.TabIndex = 20
@@ -531,7 +537,7 @@ Partial Class WACDO
         'TextBox1
         '
         Me.TextBox1.Font = New System.Drawing.Font("Century Gothic", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox1.Location = New System.Drawing.Point(27, 376)
+        Me.TextBox1.Location = New System.Drawing.Point(23, 373)
         Me.TextBox1.Multiline = True
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(411, 161)
@@ -579,6 +585,7 @@ Partial Class WACDO
         Me.BunifuMaterialTextbox6.LineMouseHoverColor = System.Drawing.Color.RoyalBlue
         Me.BunifuMaterialTextbox6.LineThickness = 2
         Me.BunifuMaterialTextbox6.Location = New System.Drawing.Point(23, 732)
+        Me.BunifuMaterialTextbox6.Margin = New System.Windows.Forms.Padding(4)
         Me.BunifuMaterialTextbox6.Name = "BunifuMaterialTextbox6"
         Me.BunifuMaterialTextbox6.Size = New System.Drawing.Size(411, 36)
         Me.BunifuMaterialTextbox6.TabIndex = 27
@@ -597,6 +604,7 @@ Partial Class WACDO
         Me.BunifuMaterialTextbox7.LineMouseHoverColor = System.Drawing.Color.RoyalBlue
         Me.BunifuMaterialTextbox7.LineThickness = 2
         Me.BunifuMaterialTextbox7.Location = New System.Drawing.Point(23, 690)
+        Me.BunifuMaterialTextbox7.Margin = New System.Windows.Forms.Padding(4)
         Me.BunifuMaterialTextbox7.Name = "BunifuMaterialTextbox7"
         Me.BunifuMaterialTextbox7.Size = New System.Drawing.Size(411, 36)
         Me.BunifuMaterialTextbox7.TabIndex = 26

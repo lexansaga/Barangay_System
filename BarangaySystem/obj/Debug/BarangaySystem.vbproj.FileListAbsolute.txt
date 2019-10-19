@@ -59,7 +59,6 @@ D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.WACDO.resources
 D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.UC_Health.resources
 D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.Login.resources
 D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.UC_LT.resources
-D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.Main_Brgy.resources
 D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.MissionVision.resources
 D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.Resources.resources
 D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.UC_Senior.resources
@@ -70,3 +69,6 @@ D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.vbproj.Generate
 D:\Lexan\Barangay_System\BarangaySystem\bin\Debug\BarangaySystem.exe
 D:\Lexan\Barangay_System\BarangaySystem\bin\Debug\BarangaySystem.pdb
 D:\Lexan\Barangay_System\BarangaySystem\bin\Debug\BarangaySystem.xml
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.Forms_Manager.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.Main.resources
+D:\Lexan\Barangay_System\BarangaySystem\obj\Debug\BarangaySystem.Dashboard.resources
